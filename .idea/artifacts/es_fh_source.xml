@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="es-fh:source">
+    <output-path>$PROJECT_DIR$/out/artifacts/es_fh_source</output-path>
+    <root id="archive" name="es-fh_source.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/java" />
+    </root>
+  </artifact>
+</component>
